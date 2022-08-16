@@ -21,7 +21,7 @@
   <img align="center" alt="igor-figma" height="30" width="40" <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
   <img align="center" alt="igor-git" height="30" width="40" <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
   <img align="center" alt="igor-gitHub" height="30" width="40" <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" />
-  <img align="center" alt="igor-gitHub" height="30" width="40" <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg"" />
+  
   
   
   
