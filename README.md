@@ -18,7 +18,7 @@
   <img align="center" alt="igor-Js" height="30" width="40" <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
   <img align="center" alt="igor-HTML" height="30" width="40" <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" />
   <img align="center" alt="igor-CSS" height="30" width="40" <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" />
-  <img align="center" alt="igor-Angular" height="30" width="40" <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" /> />
+  <img align="center" alt="igor-Angular" height="30" width="40" <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" />
   <img align="center" alt="igor-git" height="30" width="40" <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
   <img align="center" alt="igor-gitHub" height="30" width="40" <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" />
   
