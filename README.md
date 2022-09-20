@@ -4,7 +4,7 @@
 
 - 🤔 &nbsp; Explorando novas tecnologias e desenvolvendo soluções de software.
 - 🎓 &nbsp; Estudando Análise e Desenvolvimento de Sistemas no <a href="[link da sua faculdade](https://faculdadesenacpe.edu.br/)">Senac PE</a>.
-- 🌱 &nbsp; Aprendendo mais sobre Métodos Scrum, JavaScript, HTML, CSS.
+- 🌱 &nbsp; Aprendendo mais sobre Java, Angular e JS, Html e CSS.
 
  <a href="https://github.com/IgorNascimentoDEV">
  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=IgorNascimentoDEV&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
