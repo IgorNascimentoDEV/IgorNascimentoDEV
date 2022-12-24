@@ -17,7 +17,7 @@
 
 - 🚀 No momento estou me especializando em Back-end, mas tenho como objetivo me tornar Full-Stack onde para isso venho estudando diariamente.
 
-- 🌱 Atualmente estou me aprofundando na biblioteca: <b>Java</b> e <b>Spring Framework</b>.
+- 🌱 Atualmente estou me aprofundando na linguagem: <b>Java</b> e <b>Spring Framework</b>.
                                                                                                        
 ### Tecnologias e ferramentas
 <p >
