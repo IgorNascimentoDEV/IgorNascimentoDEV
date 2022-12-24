@@ -15,7 +15,7 @@
 
 - 🙋‍♂️ Um rapaz simples e dedicado
 
-- 🚀 No momento estou me especializando em Back-End, mas tenho como objetivo me tornar Full-Stack onde para isso venho estudando diariamente.
+- 🚀 No momento estou me especializando em Back-end, mas tenho como objetivo me tornar Full-Stack onde para isso venho estudando diariamente.
 
 - 🌱 Atualmente estou me aprofundando na biblioteca: <b>Java</b> e <b>Spring Framework</b>.
                                                                                                        
