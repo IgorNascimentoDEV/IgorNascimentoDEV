@@ -1,7 +1,8 @@
 <h1 align="center"> 👋 Olá, eu sou Igor Nascimento. </h1>
-<h3 align="center">Software Developer </h3>
-
-### Contato:
+<p align="center">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=0CF744&width=435&lines=I+am+a+Backend+Developer;Software+Analyst+and+Developer;Software+Resident+at+Porto+Digital+in+Brazil" alt="Typing SVG" /></a>
+</p>
+<h2>Contato:</h2>
 <p>
  <a href="https://www.linkedin.com/in/igor-vinicius-da-silva-nascimento/">
     <img src="https://img.shields.io/badge/-Linkedin-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" >
