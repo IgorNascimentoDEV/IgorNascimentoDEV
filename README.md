@@ -4,7 +4,7 @@
 </p>
 <h2>Contato:</h2>
 <p>
- <a href="https://www.linkedin.com/in/igor-vinicius-da-silva-nascimento/">
+ <a href="https://www.linkedin.com/in/igor-vinicius-nascimento/">
     <img src="https://img.shields.io/badge/-Linkedin-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" >
    <a href="https://instagram.com/igor17vinicius" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href=diegoigor2001@gmail.com">
