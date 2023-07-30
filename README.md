@@ -44,4 +44,4 @@ Minhas estatísticas             | Principais Linguagens
 <img src="https://github-readme-stats.vercel.app/api?username=IgorNascimentoDEV&show_icons=true&theme=tokyonight">  |   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IgorNascimentoDEV&layout=compact&theme=tokyonight">
   
 
-![Snake animation](https://github.com/IgorNascimentoDEV/IgorNascimentoDEV/blob/output/github-contribution-grid-snake.svg)
+<img align="center" src="./images/animated-waves.svg" width="100%" alt="Ondas animadas do Footer" />
