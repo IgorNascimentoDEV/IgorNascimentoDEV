@@ -38,4 +38,4 @@ Minhas estatísticas             | Principais Linguagens
 <img src="https://github-readme-stats.vercel.app/api?username=IgorNascimentoDEV&show_icons=true&theme=tokyonight">  |   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IgorNascimentoDEV&layout=compact&theme=tokyonight">
   
 
-<img align="center" src="./images/animated-waves.svg" width="100%" alt="Ondas animadas do Footer" />
+<img align="center" src="/imagens/animated-waves.svg" width="100%" alt="Ondas animadas do Footer" />
