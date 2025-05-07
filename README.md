@@ -1,27 +1,38 @@
 <h1 align="center"> 👋 Olá, eu sou Igor Nascimento. </h1>
 <p align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=0CF744&width=435&lines=I+am+a+Backend+Developer;Software+Analyst+and+Developer;Software+Resident+at+Porto+Digital+in+Brazil" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg">  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&pause=1000&color=0CF744&width=480&lines=Engenheiro+de+Dados+%7C+Analista+de+Sistemas;Especialista+em+BI+e+Desenvolvimento+Back-end;Apaixonado+por+transformar+dados+em+estrat%C3%A9gia" alt="Typing SVG" /></a>
 </p>
 
-### Sobre mim
+### 🚀 Sobre mim
 
-- 🙋‍♂️ Um rapaz simples e dedicado
+Sou um profissional de tecnologia apaixonado por transformar dados em soluções estratégicas e inteligentes. Atuo como Analista e Engenheiro de Dados, com experiência sólida em desenvolvimento de software e projetos de Business Intelligence para grandes empresas.
 
-- 🚀 No momento estou me especializando em Back-end, mas tenho como objetivo me tornar Full-Stack onde para isso venho estudando diariamente.
+💼 Atualmente trabalho com:
 
-- 🌱 Atualmente estou me aprofundando na linguagem: <b>C#</b> e <b>React JS</b>.
+Criação de soluções em ASP.NET / C# MVC
+
+Modelagem e otimização de bases de dados em SQL Server
+
+Desenvolvimento de painéis e relatórios com Power BI
+
+Análises avançadas e automações em Python
+
+Manipulação de dados com Excel e integração entre sistemas
+
+🎓 Formado em Análise e Desenvolvimento de Sistemas pelo Senac e graduando em Banco de Dados pela PUC Minas, onde venho me especializando em Engenharia de Dados, Modelagem Avançada.
+
+### 🧠 Especializações:
+
+✔️ Engenharia de Dados e Data Warehousing (SQL Server)
+
+✔️ Data Analytics e Business Intelligence (Power BI, Python)
+
+✔️ Desenvolvimento de sistemas internos em ASP.NET / C#
+
+✔️ Integração e automação de processos baseados em dados
                                                                                                        
-### Tecnologias e ferramentas
-<p >  
-  <img width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />                
-  <img width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-plain-wordmark.svg" />
-  <img width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" />
-  <img width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
-  <img width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" />
-  <img width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
-  <img width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" />  
-  <img width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" />
-</p>
+#### 🛠️ Tecnologias e Ferramentas
+<p> <img width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" /> <img width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-plain-wordmark.svg" /> <img width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original-wordmark.svg" /> <img width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" /> <img width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" /> <img width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" /> <img width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" /> <img width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" /> </p>
 
 
 <h3>GitHub Estatísticas</h3>
@@ -32,10 +43,12 @@ Minhas estatísticas             | Principais Linguagens
 
 <h2>Contato:</h2>
 <p>
- <a href="https://www.linkedin.com/in/igor-vinicius-nascimento/">
-    <img src="https://img.shields.io/badge/-Linkedin-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" >
-   <a href="https://instagram.com/igor17vinicius" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href="mailto:igor.vsdn@gmail.com">
+    <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge" />
+  </a>
+  <a href="https://www.linkedin.com/in/igor-vinicius-nascimento/" target="_blank">
+    <img src="https://img.shields.io/badge/-Linkedin-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" />
   </a>
 </p>
 
-<img align="center" src="/imagens/animated-waves.svg" width="100%" alt="Ondas animadas do Footer" />
+
