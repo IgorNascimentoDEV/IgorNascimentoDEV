@@ -60,15 +60,13 @@ Atuo como **Engenheiro de Dados e Analista de Sistemas**, desenvolvendo pipeline
 ### ☁️ Cloud & Big Data
 
 <p>
-  <img width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" />
-
+  <img width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" /> - 
   <!-- Databricks -->
   <img width="45px"
-       src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/databricks.svg"
-       style="filter: invert(18%) sepia(94%) saturate(7492%) hue-rotate(356deg) brightness(95%) contrast(110%);" />
-
-  <img width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
-  <img width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
+       src="https://az-icons.com/export/icons/d180faa9ddc77cb9e841ff02998e5e21.svg"
+       style="filter: invert(18%) sepia(94%) saturate(7492%) hue-rotate(356deg) brightness(95%) contrast(110%);" /> - 
+  <img width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" /> - 
+  <img width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" /> - 
 </p>
 
 ---
@@ -76,7 +74,7 @@ Atuo como **Engenheiro de Dados e Analista de Sistemas**, desenvolvendo pipeline
 ### 💻 Back-end Development
 
 <p>
-  <img width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
+  <img width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" /> - 
   <img width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" />
 </p>
 
@@ -85,7 +83,7 @@ Atuo como **Engenheiro de Dados e Analista de Sistemas**, desenvolvendo pipeline
 ### 📊 Business Intelligence
 
 <p>
-  <img width="45px" src="https://img.icons8.com/color/48/power-bi.png" />
+  <img width="45px" src="https://img.icons8.com/color/48/power-bi.png" /> - 
   <img width="45px" src="https://img.icons8.com/color/48/microsoft-excel-2019.png" />
 </p>
 
